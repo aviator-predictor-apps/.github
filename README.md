@@ -1,4 +1,5 @@
 # Aviator Predictor
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/846d3641-5bff-4973-ae5b-a2502b72e20b" />
 
 > Aviator Predictor helps you spot patterns and make smarter choices in the Aviator game. Download it free and start playing with real data on your side.
 
